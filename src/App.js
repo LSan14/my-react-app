@@ -1,12 +1,11 @@
 import React from "react";
 import Weather from "./Weather";
-import axios from "axios";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1> Hello App</h1>
+      <h1> Weather app </h1>
       <Weather />
     </div>
   );
