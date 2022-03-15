@@ -6,8 +6,8 @@
   height: 40vmin;
   pointer-events: none;
 }
-.p {
-  color: black;
+.a {
+  text-decoration: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
