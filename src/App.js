@@ -7,11 +7,11 @@ function App() {
     <div className="App">
       <h1> Weather app </h1>
       <Weather />
-      <p>
+      <footer>
         {" "}
         Open Source in{" "}
         <a href="https://github.com/LSan14/my-react-app.git">Github</a>
-      </p>
+      </footer>
     </div>
   );
 }
