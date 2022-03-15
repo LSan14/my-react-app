@@ -9,6 +9,7 @@ function App() {
       <Weather />
       <p>
         {" "}
+        Open Source in{" "}
         <a href="https://github.com/LSan14/my-react-app.git">Github</a>
       </p>
     </div>
